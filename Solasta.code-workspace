@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\..\\..\\AppData\\LocalLow\\Tactical Adventures\\Solasta\\UserContent\\Locations"
+		}
+	],
+	"settings": {
+		"json.maxItemsComputed": 100000
+	}
+}
